@@ -78,15 +78,8 @@ Configure MongoDB in `application.properties`, then run the Spring Boot applicat
 Backend runs at:
 
 ```
-http://localhost:8080
+http://localhost:8081
 ```
-
-## Future Improvements
-
-- Resume Upload
-- Job Recommendation System
-- Email Notifications
-- Admin Dashboard
 
 ## Author
 
